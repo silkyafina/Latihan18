@@ -1,2 +1,2 @@
 # Latihan18
-Latihan18-ProgramKelipatan
+Latihan18 Program Kelipatan
